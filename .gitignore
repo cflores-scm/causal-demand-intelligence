@@ -70,3 +70,6 @@ logs/
 .RData
 .Rproj.user/
 *.Rproj
+
+# DuckDB database files
+*.duckdb
