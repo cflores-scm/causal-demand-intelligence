@@ -74,10 +74,5 @@ logs/
 .Rproj.user/
 *.Rproj
 
-# AI assistant artifacts (do not version)
+# Local tool config
 .positai/
-AGENTS.md
-AGENTS.html
-
-# Personal scripts
-abrir_jupyter.bat
