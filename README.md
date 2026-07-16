@@ -20,7 +20,7 @@ This project uses **causal inference** to answer those questions from observatio
 
 | Capability | Technology | Business Value |
 |---|---|---|
-| Causal Effect Estimation | DoWhy, EconML, R `grf` | Separates true promotion lift from seasonal coincidence |
+| Causal Effect Estimation | DoWhy, EconML, R grf | Separates true promotion lift from seasonal coincidence |
 | External Signal Detection | HuggingFace zero-shot NLP | Early demand signals from economic news |
 | Causally-Informed Inventory | Python, scipy | Safety stock differentiated by controllable vs. uncontrollable uncertainty |
 
