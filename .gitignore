@@ -56,7 +56,10 @@ ENV/
 Thumbs.db
 desktop.ini
 
-# Reports / outputs (generated)
+# Generated HTML (render locally, do not version)
+*.html
+
+# Reports / outputs (generated figures)
 reports/figures/*.png
 reports/figures/*.pdf
 reports/powerbi/*.pbix
@@ -71,5 +74,10 @@ logs/
 .Rproj.user/
 *.Rproj
 
-# DuckDB database files
-*.duckdb
+# AI assistant artifacts (do not version)
+.positai/
+AGENTS.md
+AGENTS.html
+
+# Personal scripts
+abrir_jupyter.bat
