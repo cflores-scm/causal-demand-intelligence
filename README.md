@@ -49,7 +49,6 @@ causal-demand-intelligence/
 │   ├── inventory/      # Safety stock, ABC-XYZ, optimization
 │   └── utils/          # Config, plotting, metrics
 ├── sql/                # DuckDB SQL scripts
-├── r_analysis/         # R scripts (causal forests with grf)
 ├── reports/            # Exported figures and deliverables
 └── app/                # Streamlit dashboard
 ```
