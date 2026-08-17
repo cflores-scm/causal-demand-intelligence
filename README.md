@@ -70,8 +70,8 @@ causal-demand-intelligence/
 
 ## Data Sources
 
-- **Corporación Favorita** (Kaggle) — 125M rows of daily retail sales across 54 stores, Ecuador, 2013–2017
-- **Macroeconomic indicators** — Oil prices (WTI), inflation, public expenditure
+- **Corporación Favorita** (Kaggle) - 125M rows of daily retail sales across 54 stores, Ecuador, 2013–2017
+- **Macroeconomic indicators** - Oil prices (WTI), inflation, public expenditure
 
 ---
 
