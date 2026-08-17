@@ -94,4 +94,4 @@ Industrial Engineer | Supply Chain Analytics
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+MIT - see [LICENSE](LICENSE) for details.
